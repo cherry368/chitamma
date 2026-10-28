@@ -116,7 +116,7 @@
 // export type BirthdayConfig = typeof config;
 
 
-
+// Heyyy Chittamaaaa! 🥹❤️
 
 // ═══════════════════════════════════════════════════════════
 // CONFIGURATION — Customize the birthday surprise here
@@ -128,8 +128,6 @@ export const config = {
   roseCount: 100001,
 
   letterText: `To My Chittipapa ❤️🌷
-
-// Heyyy Chittamaaaa! 🥹❤️
 
 First of all, a very, very belated Happy Birthday to you! 🎂💕 I honestly didn't know your birthday had come and gone, or else I would've wished you on time. But hey, a little late doesn't mean the wishes are any less special, right? Hehe! 🫶🏻
 
