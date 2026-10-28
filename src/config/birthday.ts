@@ -127,7 +127,7 @@ export const config = {
   senderName: "Your newly upgraded cousin-friend, Charan ❤️",
   roseCount: 100001,
 
-  letterText: `To My Chittamaaa ❤️🌷
+  letterText: `To My Chittipapa ❤️🌷
 
 Heyyy Chittamaaaa! 🥹❤️
 
