@@ -116,7 +116,6 @@
 // export type BirthdayConfig = typeof config;
 
 
-// Heyyy Chittamaaaa! 🥹❤️
 
 // ═══════════════════════════════════════════════════════════
 // CONFIGURATION — Customize the birthday surprise here
